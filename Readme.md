@@ -1,0 +1,1 @@
+# Workshop for the book "distributed services with go"
