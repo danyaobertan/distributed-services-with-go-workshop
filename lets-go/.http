@@ -1,0 +1,39 @@
+### Request #1
+POST http://localhost:8080/ HTTP/1.1
+content-type: application/json
+
+{"record": {"value": "TGV0J3MgR28gIzEK"}}
+
+
+### Request #2
+POST http://localhost:8080/ HTTP/1.1
+content-type: application/json
+
+{"record": {"value": "TGV0J3MgR28gIzIK"}}
+
+
+### Request #3
+POST http://localhost:8080/ HTTP/1.1
+content-type: application/json
+
+{"record": {"value": "TGV0J3MgR28gIzMK"}}
+
+### Response #1
+GET http://localhost:8080/ HTTP/1.1
+Accept: application/json
+
+{"offset": 0}
+
+### Response #2
+GET http://localhost:8080/ HTTP/1.1
+Accept: application/json
+
+{"offset": 1}
+
+### Response #3
+GET http://localhost:8080/ HTTP/1.1
+Accept: application/json
+
+{"offset": 2}
+
+
