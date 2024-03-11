@@ -2,7 +2,7 @@
 
 ## Part I — Get Started
 - [x] **Chapter 1:** *Let’s Go*
-- [ ] **Chapter 2:** *Structure Data with Protocol Buffers*
+- [x] **Chapter 2:** *Structure Data with Protocol Buffers*
 - [ ] **Chapter 3:** *Write a Log Package*
 
 ## Part II — Network
