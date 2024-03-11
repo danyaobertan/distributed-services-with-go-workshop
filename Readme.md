@@ -6,7 +6,7 @@
 - [x] **Chapter 3:** *Write a Log Package*
 
 ## Part II — Network
-- [ ] **Chapter 4:** *Serve Requests with gRPC*
+- [x] **Chapter 4:** *Serve Requests with gRPC*
 - [ ] **Chapter 5:** *Secure Your Services*
 - [ ] **Chapter 6:** *Observe Your Systems*
 
