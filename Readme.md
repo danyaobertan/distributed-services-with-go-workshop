@@ -7,7 +7,7 @@
 
 ## Part II — Network
 - [x] **Chapter 4:** *Serve Requests with gRPC*
-- [ ] **Chapter 5:** *Secure Your Services*
+- [x] **Chapter 5:** *Secure Your Services*
 - [ ] **Chapter 6:** *Observe Your Systems*
 
 ## Part III — Distribute
