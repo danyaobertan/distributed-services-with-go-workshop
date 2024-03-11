@@ -3,7 +3,7 @@
 ## Part I — Get Started
 - [x] **Chapter 1:** *Let’s Go*
 - [x] **Chapter 2:** *Structure Data with Protocol Buffers*
-- [ ] **Chapter 3:** *Write a Log Package*
+- [x] **Chapter 3:** *Write a Log Package*
 
 ## Part II — Network
 - [ ] **Chapter 4:** *Serve Requests with gRPC*
